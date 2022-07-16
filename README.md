@@ -1,6 +1,4 @@
-```
-![](https://github.com/oybekdev1998/oybekdev1998/blob/master/secure-rest-api-in-nodejs-18f43b3033c239da5d2525cfd9fdc98f.png)
-```
+
 ## Hi all, I'm Oybek  👋  
 ![](https://komarev.com/ghpvc/?username=oybekdev1998)
 
