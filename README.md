@@ -36,7 +36,11 @@ ___
 
 [<img align="left" alt="javascript" src="https://camo.githubusercontent.com/94c215d7f2c57e13c70c13b55ce983dc9e241e6fe0a53348e9f07a8d124bbbb1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d4637444631452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d666666" data-canonical-src="https://img.shields.io/badge/javascript-F7DF1E.svg?&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=fff" style="max-width: 100%;">]()
 
+<br/>
+
 [<img align="left" alt="bootstrap" src="https://camo.githubusercontent.com/6492cf470515c2bbc1de05a4a01df5ab7861a5b7985f509d4450ce164858120f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d3736313046372e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d666666" data-canonical-src="https://img.shields.io/badge/bootstrap-7610F7.svg?&amp;style=for-the-badge&amp;logo=bootstrap&amp;logoColor=fff" style="max-width: 100%;">]()
+
+<br/>
 ___
 
 ### 🛠 Tools:
