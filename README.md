@@ -20,7 +20,7 @@ ___
 
 ### 💻 Tech Stack:
 
-[<img align="left" alt="react" src="https://camo.githubusercontent.com/fff2f18c990d0a0f8c854f1e83e4fabcff73f46999a405e4c5dee0b8d12cd1b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d3631444146422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d666666" data-canonical-src="https://img.shields.io/badge/react-61DAFB.svg?&amp;style=for-the-badge&amp;logo=react&amp;logoColor=fff" style="max-width: 100%;">]()
+<!-- [<img align="left" alt="react" src="https://camo.githubusercontent.com/fff2f18c990d0a0f8c854f1e83e4fabcff73f46999a405e4c5dee0b8d12cd1b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d3631444146422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d666666" data-canonical-src="https://img.shields.io/badge/react-61DAFB.svg?&amp;style=for-the-badge&amp;logo=react&amp;logoColor=fff" style="max-width: 100%;">]()
  
 [<img align="left" alt="redux" src="https://camo.githubusercontent.com/9bb2580411576db130fee2e51a0d2f6187563d00eff4ff80b5aba8b97de5fbd2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656475782d3736344142432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d666666" data-canonical-src="https://img.shields.io/badge/redux-764ABC.svg?&amp;style=for-the-badge&amp;logo=redux&amp;logoColor=fff" style="max-width: 100%;">]()
 
@@ -40,7 +40,28 @@ ___
 
 [<img align="left" alt="bootstrap" src="https://camo.githubusercontent.com/6492cf470515c2bbc1de05a4a01df5ab7861a5b7985f509d4450ce164858120f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d3736313046372e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d666666" data-canonical-src="https://img.shields.io/badge/bootstrap-7610F7.svg?&amp;style=for-the-badge&amp;logo=bootstrap&amp;logoColor=fff" style="max-width: 100%;">]()
 
-<br/>
+<br/> -->
+
+
+![React](https://img.shields.io/badge/-React-234534?style=for-the-badge&logo=react)
+
+![Redux](https://img.shields.io/badge/-Redux-234534?style=for-the-badge&logo=redux)
+
+![TypeScript](https://img.shields.io/badge/-typescript-234534?style=for-the-badge&logo=typescript)
+
+![Next](https://img.shields.io/badge/-Next.js-234534?style=for-the-badge&logo=next.js)
+
+![HTML](https://img.shields.io/badge/-Html-234534?style=for-the-badge&logo=html5)
+
+![CSS](https://img.shields.io/badge/-css-234534?style=for-the-badge&logo=css3)
+
+![SCSS](https://img.shields.io/badge/-scss-234534?style=for-the-badge&logo=sass)
+
+![Javascript](https://img.shields.io/badge/-javascript-234534?style=for-the-badge&logo=javascript)
+
+![Tailwind](https://img.shields.io/badge/-tailwind-234534?style=for-the-badge&logo=tailwindcss)
+
+
 ___
 
 ### 🛠 Tools:
