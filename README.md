@@ -33,8 +33,12 @@
 ![Figma](https://img.shields.io/badge/-figma-red?style=for-the-badge&logo=figma&logoColor=fff)
 ![Photoshop](https://img.shields.io/badge/-photoshop-informational?style=for-the-badge&logo=adobephotoshop&logoColor=fff)
 ![VScode](https://img.shields.io/badge/-vs_code-blueviolet?style=for-the-badge&logo=visualstudiocode&logoColor=fff&)
----
-![](https://github-readme-stats.vercel.app/api?username=oybekdev1998)
+___
+
+⚙️ GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=oybekdev1998)
+![](https://github-readme-streak-stats.herokuapp.com/?user=oybekdev1998)
 
 
 
