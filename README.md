@@ -53,7 +53,7 @@ ___
 
 ![](https://img.shields.io/badge/{REACT}-{#61DAFB}?style=for-the-badge&logo={react}&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username={oybekdev1998})
+![](https://github-readme-stats.vercel.app/api?username=oybekdev1998)
 
 
 
