@@ -1,6 +1,6 @@
 
 ## Hi all, I'm Oybek  👋  
-![](https://komarev.com/ghpvc/?username=oybekdev1998)
+![<img align="right" alt="profile-wievers" src="https://komarev.com/ghpvc/?username=oybekdev1998">](https://komarev.com/ghpvc/?username=oybekdev1998)
 
 ## I'm Frontend Developer
 
