@@ -43,24 +43,15 @@ ___
 <br/> -->
 
 
-![React](https://img.shields.io/badge/-React-234534?style=for-the-badge&logo=react)
-
-![Redux](https://img.shields.io/badge/-Redux-234534?style=for-the-badge&logo=redux)
-
-![TypeScript](https://img.shields.io/badge/-typescript-234534?style=for-the-badge&logo=typescript)
-
-![Next](https://img.shields.io/badge/-Next.js-234534?style=for-the-badge&logo=next.js)
-
-![HTML](https://img.shields.io/badge/-Html-234534?style=for-the-badge&logo=html5)
-
-![CSS](https://img.shields.io/badge/-css-234534?style=for-the-badge&logo=css3)
-
-![SCSS](https://img.shields.io/badge/-scss-234534?style=for-the-badge&logo=sass)
-
-![Javascript](https://img.shields.io/badge/-javascript-234534?style=for-the-badge&logo=javascript)
-
-![Tailwind](https://img.shields.io/badge/-tailwind-234534?style=for-the-badge&logo=tailwindcss)
-
+![React](https://img.shields.io/badge/-React-blueviolet?style=for-the-badge&logo=react&logoColor=fff)
+![Redux](https://img.shields.io/badge/-Redux-blue?style=for-the-badge&logo=redux&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![Next](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff)
+![HTML](https://img.shields.io/badge/-Html-red?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css3&logoColor=fff)
+![SCSS](https://img.shields.io/badge/-scss-important?style=for-the-badge&logo=sass&logoColor=fff)
+![Javascript](https://img.shields.io/badge/-javascript-ffea4a?style=for-the-badge&logo=javascript&logoColor=fff)
+![Tailwind](https://img.shields.io/badge/-tailwind-informational?style=for-the-badge&logo=tailwindcss&logoColor=fff&)
 
 ___
 
