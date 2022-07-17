@@ -51,4 +51,4 @@ ___
 
 ---
 
-![](https://img.shields.io/badge/{REACT}-{#344523}?style=for-the-badge&logo={react}&logoColor=white)
+![](https://img.shields.io/badge/{REACT}-{#61DAFB}?style=for-the-badge&logo={react}&logoColor=white)
