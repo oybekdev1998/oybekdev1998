@@ -36,9 +36,7 @@
 ___
 
 ⚙️ GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oybekdev1998)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oybekdev1998&layout=compact)](https://github.com/oybekdev1998)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=oybekdev1998)
-
 
 
