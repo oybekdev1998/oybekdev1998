@@ -1,6 +1,6 @@
 
 ## Hi all, I'm Oybek  👋  ![<img align="right" alt="profile-wievers" src="https://komarev.com/ghpvc/?username=oybekdev1998">](https://komarev.com/ghpvc/?username=oybekdev1998)
-https://www.codewars.com/users/oybekdev1998/badges/large
+
 ##  I'm Frontend Developer
 
 * 📍I'm from Uzbekistan
