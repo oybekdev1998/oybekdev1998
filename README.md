@@ -34,9 +34,8 @@
 ![Photoshop](https://img.shields.io/badge/-photoshop-informational?style=for-the-badge&logo=adobephotoshop&logoColor=fff)
 ![VScode](https://img.shields.io/badge/-vs_code-blueviolet?style=for-the-badge&logo=visualstudiocode&logoColor=fff&)
 ![Eslint](https://img.shields.io/badge/-eslint-blue?style=for-the-badge&logo=eslint&logoColor=fff&)
-![Prettier](https://img.shields.io/badge/-prettier-blue?style=for-the-badge&logo=prettier&logoColor=fff&)
-![Husky](https://img.shields.io/badge/-husky-blue?style=for-the-badge&logo=husky&logoColor=fff&)
-![CICD](https://img.shields.io/badge/-cicd-blue?style=for-the-badge&logo=cicd&logoColor=fff&)
+![Prettier](https://img.shields.io/badge/-prettier-000?style=for-the-badge&logo=prettier&logoColor=fff&)
+
 ___
 
 ⚙️ GitHub Analytics
