@@ -4,7 +4,7 @@
 ##  I'm Frontend Developer
 
 * 📍I'm from Uzbekistan
-* 💻 1+ Years Experience in Front-end Development
+* 💻 1,5+ Years Experience in Front-end Development
 * 📙 I'm at The Bachelor's degree
 ---
 ### 🤝 Connect with me:
