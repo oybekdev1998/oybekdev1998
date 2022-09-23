@@ -35,6 +35,7 @@
 ![VScode](https://img.shields.io/badge/-vs_code-blueviolet?style=for-the-badge&logo=visualstudiocode&logoColor=fff&)
 ![Eslint](https://img.shields.io/badge/-eslint-blue?style=for-the-badge&logo=eslint&logoColor=fff&)
 ![Prettier](https://img.shields.io/badge/-prettier-000?style=for-the-badge&logo=prettier&logoColor=fff&)
+![CI/CD](https://img.shields.io/badge/-cicd-000?style=for-the-badge&logo=cicd&logoColor=fff&)
 
 ___
 
