@@ -16,10 +16,10 @@
 
 
 ### 💻 Tech Stack:
+![Vue.js](https://img.shields.io/badge/-Vue-blueviolet?style=for-the-badge&logo=vue&logoColor=green)
 ![React](https://img.shields.io/badge/-React-blueviolet?style=for-the-badge&logo=react&logoColor=fff)
 ![Redux](https://img.shields.io/badge/-Redux-blue?style=for-the-badge&logo=redux&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
-![Next](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff)
 ![HTML](https://img.shields.io/badge/-Html-red?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css3&logoColor=fff)
 ![SCSS](https://img.shields.io/badge/-scss-important?style=for-the-badge&logo=sass&logoColor=fff)
